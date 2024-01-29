@@ -1,0 +1,56 @@
+{
+    "horoscopes" : [
+        {
+          "sign": "Aries",
+          "horoscope": "You may feel restless and impatient today, Aries. Try not to act on impulse or make hasty decisions. Instead, channel your energy into something creative or productive. You have the potential to achieve great things if you focus your mind and avoid distractions."
+        },
+        {
+          "sign": "Taurus",
+          "horoscope": "You may be feeling more sensual and romantic today, Taurus. This is a good day to express your feelings to someone you love or admire. You may also enjoy indulging in some pleasures of the senses, such as good food, music, or art. Just be careful not to overdo it or neglect your responsibilities."
+        },
+        {
+          "sign": "Gemini",
+          "horoscope": "You may be feeling more curious and communicative today, Gemini. This is a good day to learn something new, exchange ideas, or network with others. You may also find yourself in a playful mood, ready to joke and have fun. Just be mindful of your words and avoid gossip or sarcasm."
+        },
+        {
+          "sign": "Cancer",
+          "horoscope": "You may be feeling more emotional and sensitive today, Cancer. This is a good day to nurture yourself and your loved ones. You may also find comfort in your home, family, or traditions. Just be careful not to withdraw too much or cling to the past. You need to balance your inner and outer worlds."
+        },
+        {
+          "sign": "Leo",
+          "horoscope": "You may be feeling more confident and charismatic today, Leo. This is a good day to shine your light and share your talents with the world. You may also attract attention and admiration from others. Just be careful not to be too arrogant or domineering. You need to respect and appreciate others as well."
+        },
+        {
+          "sign": "Virgo",
+          "horoscope": "You may be feeling more practical and diligent today, Virgo. This is a good day to organize your affairs, attend to details, and complete tasks. You may also enjoy helping others or improving your skills. Just be careful not to be too critical or perfectionist. You need to accept yourself and others as they are."
+        },
+        {
+          "sign": "Libra",
+          "horoscope": "You may be feeling more harmonious and balanced today, Libra. This is a good day to cooperate with others, seek peace, and create beauty. You may also enjoy socializing, flirting, or mediating. Just be careful not to be too indecisive or compromising. You need to stand up for yourself and your values."
+        },
+        {
+          "sign": "Scorpio",
+          "horoscope": "You may be feeling more intense and passionate today, Scorpio. This is a good day to explore your depths, transform your fears, and empower yourself. You may also experience strong emotions, desires, or intuitions. Just be careful not to be too secretive or obsessive. You need to trust and open up to others."
+        },
+        {
+          "sign": "Sagittarius",
+          "horoscope": "You may be feeling more adventurous and optimistic today, Sagittarius. This is a good day to expand your horizons, seek knowledge, and travel. You may also enjoy being spontaneous, generous, or philosophical. Just be careful not to be too reckless or dogmatic. You need to be realistic and respectful of others."
+        },
+        {
+          "sign": "Capricorn",
+          "horoscope": "You may be feeling more ambitious and disciplined today, Capricorn. This is a good day to pursue your goals, work hard, and achieve success. You may also enjoy being responsible, reliable, or authoritative. Just be careful not to be too cold or rigid. You need to relax and have some fun."
+        },
+        {
+          "sign": "Aquarius",
+          "horoscope": "You may be feeling more innovative and original today, Aquarius. This is a good day to express your individuality, experiment with new ideas, and join a cause. You may also enjoy being friendly, humanitarian, or futuristic. Just be careful not to be too detached or eccentric. You need to connect and conform to others sometimes."
+        },
+        {
+          "sign": "Pisces",
+          "horoscope": "You may be feeling more imaginative and compassionate today, Pisces. This is a good day to dream, create, and heal. You may also enjoy being mystical, artistic, or charitable. Just be careful not to be too escapist or self-sacrificing. You need to be grounded and assertive as well."
+        }
+      ]
+}
+
+
+    
+  
